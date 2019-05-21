@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\study\smoktiy\1\1\complexnumber.h(49): warning C4172: returning address of local variable or temporary: c
+e:\study\smoktiy\1\1\complexnumber.h(97): warning C4172: returning address of local variable or temporary: c
+  1.vcxproj -> E:\study\smoktiy\1\Debug\1.exe
